@@ -47,6 +47,11 @@
 
 }
 
+#image {
+  max-width: 500px;
+  display: block;
+}
+
 #img-text {
     font-size: 35px;
     font-family: 'Boogaloo', cursive;
